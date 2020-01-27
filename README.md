@@ -1,4 +1,4 @@
-# SENERGY Web Ui
+# BRICK4U Web Ui
 
 ## Run 
 ``` 
