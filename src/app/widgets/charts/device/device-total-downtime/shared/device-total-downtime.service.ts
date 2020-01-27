@@ -28,7 +28,7 @@ import {DeviceTotalDowntimeEditDialogComponent} from '../dialogs/device-total-do
 import {DeviceInstancesService} from '../../../../../modules/devices/device-instances/shared/device-instances.service';
 import {DeviceInstancesHistoryModel} from '../../../../../modules/devices/device-instances/shared/device-instances-history.model';
 
-const customColor = '#4484ce'; // /* cc */
+const customColor = '#5f5f5f'; // /* cc */
 const stateTrue = true;
 const stateFalse = false;
 const dayInMs = 86400000;

@@ -33,7 +33,7 @@ import {DashboardManipulationEnum} from '../../../../modules/dashboard/shared/da
 import {ExportValueModel} from '../../../../modules/data/export/shared/export.model';
 import {ErrorModel} from '../../../../core/model/error.model';
 
-const customColor = '#4484ce'; // /* cc */
+const customColor = '#5f5f5f'; // /* cc */
 
 @Injectable({
     providedIn: 'root'
